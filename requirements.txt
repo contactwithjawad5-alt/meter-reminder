@@ -1,3 +1,5 @@
 fastapi
 uvicorn
+apscheduler
 requests
+sqlite3-binary
