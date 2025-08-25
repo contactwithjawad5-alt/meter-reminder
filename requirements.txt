@@ -1,5 +1,3 @@
-fastapi
-uvicorn
-apscheduler
+Flask
 requests
-sqlite3-binary
+gunicorn
